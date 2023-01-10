@@ -1,0 +1,54 @@
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #07080c;
+  height: 100vh;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.speed {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.img {
+  width: 550px;
+  height: 250px;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.btn-1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  width: 120px;
+  height: 50px;
+  margin: 50px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.btn-2 {
+  background-color: transparent;
+  color: #94a3b8;
+  width: 120px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 2px;
+  cursor: pointer;
+  border-color: #94a3b8;
+}
